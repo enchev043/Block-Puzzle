@@ -18,4 +18,4 @@ The goal state is a tower, with A on top, B in the middle and C at the bottom.
 0B00
 0C0X
 
-To move the letters, there is an X letter. When the X is moved on a space with a letter, they switch places. This is how the X builds the tower. The movement of X is determined by a set of possible moves at each state of the grid which are generated using different rules for each of the four implemented algorithms.  
+To move the letters, there is an X letter. When the X is moved on a space with a letter, they switch places. This is how the X builds the tower. The movement of X is determined by a set of possible moves, which are generated using different rules for each of the four implemented algorithms, at each state of the grid.  
