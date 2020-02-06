@@ -5,6 +5,7 @@ The project showcases the difference in performance of 4 different search algori
 #### The definition of the problem is the following:
 
 There is a 4x4 grid with 3 letters (A, B, C), which should be moved across the grid. 
+Possible Grid configuration:
 0000
 0000
 0000
